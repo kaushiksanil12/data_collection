@@ -1,16 +1,3 @@
-# import requests
-# import pandas as pd
-# import json
-# import time
-# import logging
-# from datetime import datetime
-# import concurrent.futures
-# from tqdm import tqdm
-# import oracledb
-# from sqlalchemy import create_engine, text
-# from datetime import datetime, timedelta
-# from sqlalchemy.types import VARCHAR, DECIMAL, TIMESTAMP, INTEGER
-# import os
 from datetime import datetime, timedelta
 import concurrent.futures
 import logging
